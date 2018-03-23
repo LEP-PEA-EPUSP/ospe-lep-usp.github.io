@@ -4,12 +4,6 @@ The open source power electronics project began at the Power Electronics Lab at 
 
 ## Hardware
 
-Link [ospe-hw](https://github.com/ospe-lep-usp/ospe-hw)
-
 ## Software
 
-Link [ospe-sw](https://github.com/ospe-lep-usp/ospe-sw)
-
 ## Documentation and Learning
-
-Link [ospe-docs](https://github.com/ospe-lep-usp/ospe-docs)
