@@ -1,6 +1,8 @@
 theme: jekyll-theme-slate
 
-title: [Open Source Power Electronics Project]
+title: [Open Source Power Electronics]
 description: []
 
-repository: lucask0/ospe-docs
+repository: ospe-lep-usp/ospe-lep-usp.github.io
+
+github: [metadata]
