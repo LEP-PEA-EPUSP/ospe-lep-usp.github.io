@@ -4,28 +4,43 @@ The open source power electronics project began at the Power Electronics Lab at 
 
 ## Hardware
 
-Check the [ospe-hw](https://github.com/ospe-lep-usp/ospe-hw) repository.
+Check the [list of repositories](https://github.com/LEP-PEA-EPUSP) avaiable:
 
-1) Inverter Circuit
-2) Current sensor
-3) Voltage sensor
-4) LCL Filter
-5) Control Board
+1. Inverter Circuit
+2. Current sensor
+3. Voltage sensor
+4. LCL Filter
+5. Control Board
 
 ## Software
 
-Check the [ospe-sw](https://github.com/ospe-lep-usp/ospe-sw) repository.
+Check the [list of repositories](https://github.com/LEP-PEA-EPUSP) avaiable:
 
-Check the list of repositories avaiable:
-
-1) Firmware for STM32F407VGT6
-2) User Interface
-3) Tests
-4) User Documentation
+1. Firmware for STM32F407VGT6
+2. User Interface
+3. Tests
+4. User Documentation
 
 ## Documentation and Learning
 
-Check the [ospe-docs](https://github.com/ospe-lep-usp/ospe-docs) repository. Additionally, you can check this [YouTube channel](https://www.youtube.com/channel/UCtj66nq9g7iuoy5bCj0pb2g).
+Check the [list of repositories](https://github.com/LEP-PEA-EPUSP) avaiable. Additionally, you can check this [YouTube channel](https://www.youtube.com/channel/UCtj66nq9g7iuoy5bCj0pb2g) (currently only in Portuguese).
+
+## Contributors
+
+| | **Name** | **Website** | **Role** | **Contribution** |
+|-|------|--------|--------|--------|
+| | Lourenço Matakas Jr. | http://www.pea.usp.br/Lep | Coordination, Advisor |  Idealization, Administration, Technical Advisor |
+| ![LucianaMarques](https://avatars0.githubusercontent.com/u/10895920?s=460&v=4) | Luciana Marques | https://github.com/LucianaMarques | Coordination, Development | Hardware Development, Embedded Programming, User Interface Development  |
+| ![GustavoSoares13](https://avatars3.githubusercontent.com/u/37849826?s=460&v=4) | Gustavo Soares | https://github.com/GustavoSoares13 | Coordination, Hardware | Hardware Development, Embedded Programming, Testing  |
+| ![lucask0](https://avatars0.githubusercontent.com/u/11836715?s=460&v=4) | Lucas Koleff | https://sites.google.com/site/lucasmkoleff/ | Advisor | Idealization, Hardware Development, Embedded Programming, User Interface Development, Testing |
+| ![henrimit](https://avatars3.githubusercontent.com/u/37812811?s=400&v=4) | Henrique Hokama | https://github.com/henrimit | Member | Hardware Development,  Testing  |
+|  | Wilson Komatsu | http://www.pea.usp.br/Lep | - | -  |
+|  | Brando | - | Member | Hardware Development |
+|  | Victor | - | Member | TBD  |
+
+
+
+
 
 ## License Information
 
