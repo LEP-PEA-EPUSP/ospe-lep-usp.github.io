@@ -6,9 +6,22 @@ The open source power electronics project began at the Power Electronics Lab at 
 
 Check the [ospe-hw](https://github.com/ospe-lep-usp/ospe-hw) repository.
 
+1) Inverter Circuit
+2) Current sensor
+3) Voltage sensor
+4) LCL Filter
+5) Control Board
+
 ## Software
 
 Check the [ospe-sw](https://github.com/ospe-lep-usp/ospe-sw) repository.
+
+Check the list of repositories avaiable:
+
+1) Firmware for STM32F407VGT6
+2) User Interface
+3) Tests
+4) User Documentation
 
 ## Documentation and Learning
 
