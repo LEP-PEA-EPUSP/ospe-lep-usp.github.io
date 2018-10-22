@@ -29,15 +29,15 @@ Check the [list of repositories](https://github.com/LEP-PEA-EPUSP) avaiable. Add
 
 | | **Name** | **Website** | **Role** | **Contribution** |
 |-|------|--------|--------|--------|
-| | Lourenço Matakas Jr. | http://www.pea.usp.br/Lep | Coordination, Advisor |  Idealization, Administration, Technical Advisor |
+| ![matakas](https://i1.rgstatic.net/ii/profile.image/279390425501706-1443623276708_Q128/Lourenco_Matakas_Junior.jpg) | Lourenço Matakas Jr. | http://www.pea.usp.br/Lep | Coordination, Advisor |  Idealization, Administration, Technical Advisor |
 | ![LucianaMarques](https://avatars0.githubusercontent.com/u/10895920?s=460&v=4) | Luciana Marques | https://github.com/LucianaMarques | Coordination, Development | Hardware Development, Embedded Programming, User Interface Development  |
-| ![GustavoSoares13](https://avatars3.githubusercontent.com/u/37849826?s=460&v=4) | Gustavo Soares | https://github.com/GustavoSoares13 | Coordination, Hardware | Hardware Development, Embedded Programming, Testing  |
-| ![lucask0](https://avatars0.githubusercontent.com/u/11836715?s=460&v=4) | Lucas Koleff | https://sites.google.com/site/lucasmkoleff/ | Advisor | Idealization, Hardware Development, Embedded Programming, User Interface Development, Testing |
+| ![GustavoSoares13](https://avatars3.githubusercontent.com/u/37849826?s=460&v=4) | Gustavo Soares | https://github.com/GustavoSoares13 |  Hardware | Hardware Development, Embedded Programming, Testing  |
+| ![lucask0](https://avatars0.githubusercontent.com/u/11836715?s=460&v=4) | Lucas Koleff | https://sites.google.com/site/lucasmkoleff/ | Coordination, Advisor | Idealization, Hardware Development, Embedded Programming, User Interface Development, Testing |
 | ![henrimit](https://avatars3.githubusercontent.com/u/37812811?s=400&v=4) | Henrique Hokama | https://github.com/henrimit | Member | Hardware Development,  Testing  |
-|  | Wilson Komatsu | http://www.pea.usp.br/Lep | - | -  |
-|  | Brando | - | Member | Hardware Development |
-|  | Victor | - | Member | TBD  |
-
+| ![wilsonk](https://i1.rgstatic.net/ii/profile.image/583028113776641-1516016142926_Q128/Wilson_Komatsu.jpg) | Wilson Komatsu | http://www.pea.usp.br/Lep | Advisor | Power Electronics  |
+|  | Brando Moraes | - | Member | Hardware Development |
+|  ![Victor-Praxedes](https://avatars2.githubusercontent.com/u/40328546?s=400&v=4) | Victor Praxedes | https://github.com/Victor-Praxedes | Member | Embedded Programming, Hardware Integration  |
+| ![francescosacco](https://avatars3.githubusercontent.com/u/18581159?s=460&v=4) | Francesco Sacco | https://github.com/francescosacco | Member | Hardware Development |
 
 
 
